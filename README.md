@@ -19,4 +19,3 @@ Find server in FiveM client and click on it.
 In the right side you will have "join URL", in which last fragment is **Server ID**. Example:
 `cfx.re/join/vp4rxq` -> **vp4rxq**  
   
-![image](https://github.com/igorovh/fivem-player-list/assets/37638480/cc4427f2-9fb0-4a9a-822b-db3344845b21)
